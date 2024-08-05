@@ -6,7 +6,10 @@ body {
 }
 
 footer {
-    background-color: #e75050;
+    background-image:linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("Background.avif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
     color: #fff;
     padding: 20vh 0;
     height: 60vh;
